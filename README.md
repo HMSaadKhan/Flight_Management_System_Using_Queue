@@ -1,1 +1,1 @@
-# cpp_programs
+The contents available are here only for help purposes
